@@ -1,0 +1,16 @@
+# Ignore target directory
+target/
+
+# Ignore editor and IDE files
+.vscode/
+.idea/
+
+# git
+.git/
+
+
+# Ignore system and temporary files
+.DS_Store
+Thumbs.db
+*.swp
+*~
